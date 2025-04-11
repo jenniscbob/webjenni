@@ -1,0 +1,7 @@
+//questao 3
+const banco = [];
+banco.splice(0, 1, 'pessoa1', 'pessoa2', 'pessoa3'); 
+banco.slice(1,); 
+banco.slice(2,);
+banco.slice(3,);
+console.log(banco);
