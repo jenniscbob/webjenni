@@ -5,3 +5,13 @@ banco.slice(1,);
 banco.slice(2,);
 banco.slice(3,);
 console.log(banco);
+
+
+//questao 4
+const devolucoes = {
+  titulo: "livro1",
+  autor: "jennifer",
+  atrasado: "1 hora",
+}
+console.log(devolucoes)
+console.log(typeof devolucoes)
