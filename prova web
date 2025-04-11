@@ -15,3 +15,15 @@ const devolucoes = {
 }
 console.log(devolucoes)
 console.log(typeof devolucoes)
+
+//questao 5
+let idade = 17
+if idade = (menor que 12 anos) ==categoria: 'ingresso infantil'
+else if idade = (entre 12 e 17 anos) ==categoria: 'ingresso adolescente'
+else if idade = (entre 18 e 59 anos) ==categoria: 'ingressos adulto'
+else idade = (60 anos ou mais) ==categoria: 'ingresso senior'
+function mensagem (){
+  console.log('Tipo de ingresso: [categoria]')
+}
+console.log(idade)
+
